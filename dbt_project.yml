@@ -1,4 +1,4 @@
-name: 'dbt-datamart'
+name: 'dbt_datamart'
 config-version: 2
 version: '1.0.0'
 

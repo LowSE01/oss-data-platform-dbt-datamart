@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: datawarehouse
+    schema: datawarehouse
+    tables:
+      - name: sample_superstore_cities
+      - name: sample_superstore_customers
+      - name: sample_superstore_orders
+      - name: sample_superstore_products
+      - name: sample_superstore_regional_managers
+      - name: sample_superstore_returns
+      - name: sample_superstore_ship_modes
